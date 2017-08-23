@@ -1,0 +1,5 @@
+
+*.pyc
+.idea/workspace.xml
+vcs.xml
+.idea/Thesis_sef_Morille_2017.iml
